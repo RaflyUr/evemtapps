@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Widget ini memeriksa apakah pengguna sudah login atau belum
+// Widget ini memeriksa apakah pengguna sudah login atau belum di inisiasi
 class AuthChecker extends StatefulWidget {
   const AuthChecker({super.key});
 
